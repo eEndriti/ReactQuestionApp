@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ReactQuestionApp/static/css/main.738d98bb.chunk.css",
+    "main.js": "/ReactQuestionApp/static/js/main.8c7076dc.chunk.js",
+    "main.js.map": "/ReactQuestionApp/static/js/main.8c7076dc.chunk.js.map",
+    "runtime-main.js": "/ReactQuestionApp/static/js/runtime-main.48a0a0ee.js",
+    "runtime-main.js.map": "/ReactQuestionApp/static/js/runtime-main.48a0a0ee.js.map",
+    "static/js/2.de4e88b2.chunk.js": "/ReactQuestionApp/static/js/2.de4e88b2.chunk.js",
+    "static/js/2.de4e88b2.chunk.js.map": "/ReactQuestionApp/static/js/2.de4e88b2.chunk.js.map",
+    "static/js/3.b2ef4dbe.chunk.js": "/ReactQuestionApp/static/js/3.b2ef4dbe.chunk.js",
+    "static/js/3.b2ef4dbe.chunk.js.map": "/ReactQuestionApp/static/js/3.b2ef4dbe.chunk.js.map",
+    "index.html": "/ReactQuestionApp/index.html",
+    "static/css/main.738d98bb.chunk.css.map": "/ReactQuestionApp/static/css/main.738d98bb.chunk.css.map",
+    "static/js/2.de4e88b2.chunk.js.LICENSE.txt": "/ReactQuestionApp/static/js/2.de4e88b2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.48a0a0ee.js",
+    "static/js/2.de4e88b2.chunk.js",
+    "static/css/main.738d98bb.chunk.css",
+    "static/js/main.8c7076dc.chunk.js"
+  ]
+}
